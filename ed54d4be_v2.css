@@ -4475,7 +4475,7 @@ body.target-mode .target-container {
     word-wrap: break-word;
     color: #fff;
     color: var(--color-one-page-cover-contrast, #fff);
-    font-family: Lato;
+    font-family: Graphik;
     font-size: 3.2rem;
     font-weight: 900;
     letter-spacing: -0.015rem;
